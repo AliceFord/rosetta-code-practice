@@ -1,0 +1,1 @@
+All of the  Rosetta Code that I have created my own solutions for!
